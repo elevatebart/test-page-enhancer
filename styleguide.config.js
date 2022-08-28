@@ -14,5 +14,5 @@ module.exports = defineConfig({
 	//   // custom config goes here
 	// },
 	exampleMode: 'expand',
-  enhancePreviewApp: 'styleguide/enhancePreviewApp.js',
+  // enhancePreviewApp: 'styleguide/enhancePreviewApp.js',
 })
