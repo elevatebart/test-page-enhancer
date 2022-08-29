@@ -7189,10 +7189,10 @@ vue-loader@^17.0.0:
     hash-sum "^2.0.0"
     loader-utils "^2.0.0"
 
-vue-styleguidist@^4.50.0:
-  version "4.50.0"
-  resolved "https://registry.yarnpkg.com/vue-styleguidist/-/vue-styleguidist-4.50.0.tgz#8b45babb18cd53800b2a372b0093ba18c005f2de"
-  integrity sha512-4hBsyECItaBqsJ/SVoUy9MeDeSzKSyi+C6amg936ZnFCzETJNqOV0PJXVOOGTDDk0b1rTqsrEczSPvNox/7P5g==
+vue-styleguidist@^4.53.0:
+  version "4.53.0"
+  resolved "https://registry.yarnpkg.com/vue-styleguidist/-/vue-styleguidist-4.53.0.tgz#65c3532caff9160e03f1af749213f332e689a766"
+  integrity sha512-35aBw3TTzMypOG1GG47jxsBR42QmPhqnEkfHLPF+Zg52n2cjxYyGwP2q5SoSh98EhJxrNDpJLPDLuTv7IHqApA==
   dependencies:
     "@vxna/mini-html-webpack-template" "^1.0.0"
     ast-types "0.14.2"
